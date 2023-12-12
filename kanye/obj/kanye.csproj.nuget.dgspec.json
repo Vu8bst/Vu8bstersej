@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\KanyeWest\\KanyeWest.csproj": {}
+    "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\kanye\\kanye.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\KanyeWest\\KanyeWest.csproj": {
+    "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\kanye\\kanye.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\KanyeWest\\KanyeWest.csproj",
-        "projectName": "KanyeWest",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\KanyeWest\\KanyeWest.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\kanye\\kanye.csproj",
+        "projectName": "kanye",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\kanye\\kanye.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\KanyeWest\\obj\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Desktop\\Github\\Hansenbrawler spil\\Vu8bstersej\\kanye\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

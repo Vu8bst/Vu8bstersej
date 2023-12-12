@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\bin\Debug\net6.0\kanye.exe
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\bin\Debug\net6.0\kanye.deps.json
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\bin\Debug\net6.0\kanye.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\bin\Debug\net6.0\kanye.dll
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\bin\Debug\net6.0\kanye.pdb
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.dll
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\refint\kanye.dll
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.pdb
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\kanye.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\Github\Hansenbrawler spil\Vu8bstersej\kanye\obj\Debug\net6.0\ref\kanye.dll

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "KanyeWest/1.0.0": {
+      "kanye/1.0.0": {
         "runtime": {
-          "KanyeWest.dll": {}
+          "kanye.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "KanyeWest/1.0.0": {
+    "kanye/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
