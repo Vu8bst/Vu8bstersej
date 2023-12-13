@@ -128,18 +128,111 @@ Console.WriteLine("Swapped");
 Console.WriteLine("x: " + x);
 Console.WriteLine("y: " + y);
 
-*/
 
-int = number1;
- number2, number3;
 
-int number1 = 2;
+int number1, number2, number3;
 
-Console.Write("\nInput the First number to multiply");
+Console.Write("\nWrite the First number to multiply ");
 number1 = int.Parse(Console.ReadLine());
-Console.Write("\nInput the Second number to multiply");
+Console.Write("\nWrite the Second number to multiply ");
 number2 = int.Parse(Console.ReadLine());
-Console.Write("\nInput the Third number to multiply");
+Console.Write("\nWrite the Third number to multiply ");
 number3 = int.Parse(Console.ReadLine());
 Console.WriteLine( number1 * number2 * number3);
 Console.ReadLine();
+
+
+
+
+int number1, number2,
+
+Console.Write("\nWrite the First number to multiply ");
+number1 = int.Parse(Console.ReadLine());
+Console.Write("\nWrite the Second number to multiply ");
+number2 = int.Parse(Console.ReadLine());
+Console.WriteLine( number1 + number2);
+Console.ReadLine();
+
+int number3, number4,
+
+Console.Write("\nWrite the First number to multiply ");
+number1 = int.Parse(Console.ReadLine());
+Console.Write("\nWrite the Second number to multiply ");
+number2 = int.Parse(Console.ReadLine());
+Console.WriteLine( number3 - number4);
+Console.ReadLine();
+
+int number5, number6,
+
+Console.Write("\nWrite the First number to multiply ");
+number1 = int.Parse(Console.ReadLine());
+Console.Write("\nWrite the Second number to multiply ");
+number2 = int.Parse(Console.ReadLine());
+Console.WriteLine( number5 - number6);
+Console.ReadLine();
+
+
+
+int num1, num2, add, subtract, multiply, divide, mod;
+
+Console.Write("Please enter your first number: ");
+num1 = int.Parse(Console.ReadLine());
+
+Console.Write("Please enter your second number: " );
+num2 = int.Parse(Console.ReadLine());
+
+add = num1 + num2;
+subtract = num1 - num2;
+multiply = num1 * num2;
+divide = num1 / num2;
+mod = num1 % num2;
+
+Console.WriteLine("These two numbers added is: {0}\nSubtracted: {1}\nMulitplied: {2}\nDivided: {3}\nModulus: {4}",add,subtract,multiply,divide,mod);
+
+
+
+
+
+{
+private static int numberX;
+
+static void Main(string[] args)
+{
+Console.WriteLine("Type a number: ");
+numberX = int.Parse(Console.ReadLine());
+
+Console.WriteLine("The Multiplication Table of this number is: ");
+Console.WriteLine(value: numberX * 0);
+Console.WriteLine(value: numberX * 1);
+Console.WriteLine(value: numberX * 2);
+Console.WriteLine(value: numberX * 3);
+Console.WriteLine(value: numberX * 4);
+Console.WriteLine(value: numberX * 5);
+Console.WriteLine(value: numberX * 6);
+Console.WriteLine(value: numberX * 7);
+Console.WriteLine(value: numberX * 8);
+Console.WriteLine(value: numberX * 9);
+Console.WriteLine(value: numberX * 10);
+}
+}
+}
+
+*/
+
+
+{  
+    string letter1,letter2,letter3;
+  
+    Console.WriteLine("Input letter: ");
+    letter1 = Convert.ToString(Console.ReadLine());
+ 
+    Console.WriteLine("Input letter: ");
+    letter2 = Convert.ToString(Console.ReadLine());       
+ 
+    Console.WriteLine("Input letter: ");
+    letter3 = Convert.ToString(Console.ReadLine());
+     
+    Console.WriteLine("{0} {1} {2}",letter3,letter2,letter1);
+   }
+
+
